@@ -1,5 +1,10 @@
-## Hi there 👋
+## M. A. A. Pratama (20)
+# Hi there 👋
 
+
+- 🌱 I’m currently learning at Jakarta State Polytechnic
+- Computer and Informatics Engineering major, but don't count me on that
+- Reach me here! [LinkedIn](https://www.linkedin.com/in/abian-pratama/)
 <!--
 **Abian004/Abian004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
