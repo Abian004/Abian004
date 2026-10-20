@@ -2,8 +2,8 @@
 # Hi there 👋
 
 
-- 🌱 I’m currently learning at Jakarta State Polytechnic
-- Computer and Informatics Engineering major, but don't count me on that
+- 🌱 I’m a Fresh Graduate from Jakarta State Polytechnic
+- Computer and Informatics Engineering major!
 - Reach me here! [LinkedIn](https://www.linkedin.com/in/abian-pratama/)
 
 - <p align="left">
